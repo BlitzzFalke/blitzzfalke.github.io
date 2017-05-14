@@ -1,7 +1,8 @@
 body {
-  font-family: Arial, Verdana, sans-serif;}
+  font-family: "Times New Roman", Times, Georgia, serif;}
+h1 {
+  font-size: 150%;}
 h2 {
-  font-family: "Times New Roman", Times, Georgia, serif;
   font-size: 100%;
   color: #da5420;}
 h1.Hi {
