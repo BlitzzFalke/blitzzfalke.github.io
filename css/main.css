@@ -24,6 +24,9 @@ a:hover {
     text-decoration: underline;
     background-color: rgb(217,221,183);
 }
+div class="container" {
+    background-color: rgba(255, 255, 255, 0.75);
+}
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
