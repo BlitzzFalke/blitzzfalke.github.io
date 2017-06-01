@@ -15,7 +15,8 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: inherit;
+    color: inherit;
 }
 a {
     text-decoration: none;
