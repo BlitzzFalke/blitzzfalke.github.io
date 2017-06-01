@@ -14,7 +14,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: inherit;
+    margin-right: 20px;
 }
 a {
     text-decoration: none;
@@ -22,6 +22,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    background-color: rgb(217,221,183);
 }
 h1 {
     font-size: 3em;
